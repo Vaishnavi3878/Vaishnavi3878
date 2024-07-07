@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kulkarni</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<img align="right" alt="coding" width="400" height="315" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="coding" width="400" height="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi3878&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi3878" /> </p>
 
